@@ -2,9 +2,6 @@
 
 Uma simples aplicação Full Stack para gerenciar sua lista de desejos pessoais, construída com React no frontend e Node.js/Express no backend.
 
-![Wishlist App Screenshot](https://via.placeholder.com/800x450.png?text=Adicione+um+print+ou+GIF+do+seu+app+aqui!)
-*Dica: Grave um GIF da tela usando ferramentas como [ScreenToGif](https://www.screentogif.com/) (Windows) ou [Kap](https://getkap.co/) (Mac) e adicione aqui para mostrar seu app em ação!*
-
 ---
 
 ## 🚀 Sobre o Projeto
