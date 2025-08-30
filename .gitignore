@@ -1,0 +1,21 @@
+# Arquivo gerado pelo sistema operacional
+.DS_Store
+
+# Dependências
+# Ignora a pasta node_modules na raiz e em qualquer subdiretório
+**/node_modules
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivo de banco de dados local
+/backend/db.json
+
+# Pasta de build do frontend
+/frontend/build
+
+# Arquivos de ambiente
+.env.local
+.env.*.local
